@@ -5,9 +5,10 @@
 This repository contains draft chapters of a book titled _Learning R... as you learnt your mother tongue_. 
 Some of these chapters started as teaching notes and others as appendixes to a handbook. However, they grew too big to be appendixes. 
 
-### Is the book available as a PDF file for download? ###
+### This draft of the book is no longer maintained  ###
 
-Yes, the book draft is available for download at (http://leanpub.com/learnr).
+A much revised version of the book was published in The R Series by CRC/Chapman and Hall in 2020.
+The source of this newer version in is in a different repository at GitHUb also mirrored at Bitbucket.
 
 ### Just clone the repository ###
 
